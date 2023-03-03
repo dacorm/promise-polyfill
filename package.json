@@ -1,0 +1,26 @@
+{
+  "name": "promise-polyfill",
+  "version": "1.0.0",
+  "description": "Repository to show how promise works under the hood with all details.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dacorm/promise-polyfill.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dacorm/promise-polyfill/issues"
+  },
+  "homepage": "https://github.com/dacorm/promise-polyfill#readme",
+  "dependencies": {
+    "typescript": "^4.9.5"
+  },
+  "devDependencies": {
+    "@types/node": "^18.14.5"
+  }
+}
